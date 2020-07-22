@@ -3,6 +3,7 @@
 # WEB_API
 
 import requests 
+
 # обращение к сайту с погодой
 def weather_calc():
     city = input("What city? ")
