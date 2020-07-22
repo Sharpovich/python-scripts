@@ -2,7 +2,7 @@
 # API -- это набор функций, констант и методов
 # WEB_API
 
-import requests
+import requests 
 # обращение к сайту с погодой
 def weather_calc():
     city = input("What city? ")
